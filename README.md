@@ -2,7 +2,7 @@
  
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) 
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+Piyush!!+%F0%9F%91%8B;Love+to+make+new+websites+and+apps!;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+Shubham!!+%F0%9F%91%8B;Love+to+make+new+websites+and+apps!;)](https://git.io/typing-svg)
  
  # Personal-Portfolio
 
