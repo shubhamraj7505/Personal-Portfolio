@@ -6,7 +6,7 @@ $database_name="personalportfolio";
 $con=mysqli_connect ($server_name, $username, $password, $database_name);
 
 if($con){
-    echo "Connection successful";
+    echo "Connection Successful";
 }else{
     echo "No connection";
 }
@@ -32,5 +32,6 @@ if (mysqli_query($con, $query) )
 		}
 		mysqli_close($con);
 }
+
 
 ?>
